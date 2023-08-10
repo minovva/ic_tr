@@ -97,5 +97,11 @@
     "tutorial_three_desc": "some english text, при пересечении границы время запустится автоматически",
     "tutorial_four_title": "some english text",
     "tutorial_four_desc": "some english text, при пересечении границы время запустится автоматически",
-    "best_time": "Best time"
+    "best_time": "Best time",
+    "your_record_beaten_title": "Your record has been broken!",
+    "your_record_beaten_text": "Your record on route {0} has been broken by user {1}!",
+    "route_record_beaten_title": "Route record broken!",
+    "route_record_beaten_text": "Route {0} record has been broken by user {1}!",
+    "user_finished_race_title": "User completed the race",
+    "user_finished_race_text": "User {0} has completed a race on route {1} in {2} and took {3} place"
 }
