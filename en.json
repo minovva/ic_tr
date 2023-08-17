@@ -103,5 +103,16 @@
     "route_record_beaten_title": "Route record broken!",
     "route_record_beaten_text": "Route {0} record has been broken by user {1}!",
     "user_finished_race_title": "User completed the race",
-    "user_finished_race_text": "User {0} has completed a race on route {1} in {2} and took {3} place"
+    "user_finished_race_text": "User {0} has completed a race on route {1} in {2} and took {3} place",
+    "email_confirm_mail_theme": "Email confirmation",
+    "email_confirm_mail_thanks": "Thank you for your registration!",
+    "email_confirm_mail_instruction": "Follow the link on the button below to confirm the e-mail of your InterCity",
+    "email_confirm_mail_button": "Confirm",
+    "email_confirm_mail_alt_intruction": "to follow the link, you can also",
+    "email_confirm_mail_click_here": "click here",
+    "email_change_confirm_mail_title": "Confirm your new e-mail",
+    "email_change_confirm_mail_instruction": "Follow the link on the button below to confirm your new email",
+    "reset_password_mail_theme": "Password reset",
+    "reset_password_mail_instruction": "Follow the link to change password of your InterCity account",
+    "reset_password_mail_button": "Reset"
 }
