@@ -103,5 +103,16 @@
     "route_record_beaten_title": "Рекорд трассы побит!",
     "route_record_beaten_text": "Рекорд трассы {0} был побит пользователем {1}!",
     "user_finished_race_title": "Пользователь завершил заезд",
-    "user_finished_race_text": "Пользователь {0} завершил заезд на трассе {1} за {2} и занял {3} место"
+    "user_finished_race_text": "Пользователь {0} завершил заезд на трассе {1} за {2} и занял {3} место",
+    "email_confirm_mail_theme": "Подтверждение email",
+    "email_confirm_mail_thanks": "Спасибо за регистрацию!",
+    "email_confirm_mail_instruction": "Нажмите на кнопку, чтобы перейти по ссылке и подтвердить ваш e-mail на сайте InterCity",
+    "email_confirm_mail_button": "Подтвердить",
+    "email_confirm_mail_alt_intruction": "чтобы перейти по ссылке, вы также можете",
+    "email_confirm_mail_click_here": "нажать здесь",
+    "email_change_confirm_mail_title": "Подтвердите ваш новый e-mail",
+    "email_change_confirm_mail_instruction": "Нажмите на кнопку, чтобы перейти по ссылке и подтвердить ваш новый e-mail",
+    "reset_password_mail_theme": "Сброс пароля",
+    "reset_password_mail_instruction": "Нажмите на кнопку, чтобы перейти по ссылке и изменить пароль от вашего аккаунта InterCity",
+    "reset_password_mail_button": "Сброс"
 }
