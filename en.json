@@ -114,5 +114,18 @@
     "email_change_confirm_mail_instruction": "Follow the link on the button below to confirm your new email",
     "reset_password_mail_theme": "Password reset",
     "reset_password_mail_instruction": "Follow the link to change password of your InterCity account",
-    "reset_password_mail_button": "Reset"
+    "reset_password_mail_button": "Reset",
+    "password_reset_page_title": "Password reset",
+    "password_reset_page_enter_new_password": "Enter new password:",
+    "password_reset_page_enter_new_password_again": "Enter new password again:",
+    "password_reset_page_confirm": "Confirm",
+    "password_reset_page_success": "Your password has been successfuly changed!",
+    "password_reset_page_passwords_not_filled": "Please fill all fields",
+    "password_reset_page_passwords_dont_match": "Passwords don`t match",
+    "password_reset_page_password_too_short": "Password is too short",
+    "password_reset_page_password_too_long": "Password is too long",
+    "password_reset_page_password_no_numbers": "Password must contain numbers",
+    "password_reset_page_password_no_letters": "Password must contain letters",
+    "password_reset_page_unknown_error": "Unexpected error. Try again later",
+    "password_reset_page_connection_error": "Error while trying to connect to the server. Try again later"
 }
