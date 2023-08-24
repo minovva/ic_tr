@@ -114,5 +114,18 @@
     "email_change_confirm_mail_instruction": "Нажмите на кнопку, чтобы перейти по ссылке и подтвердить ваш новый e-mail",
     "reset_password_mail_theme": "Сброс пароля",
     "reset_password_mail_instruction": "Нажмите на кнопку, чтобы перейти по ссылке и изменить пароль от вашего аккаунта InterCity",
-    "reset_password_mail_button": "Сброс"
+    "reset_password_mail_button": "Сброс",
+    "password_reset_page_title": "Сброс пароля",
+    "password_reset_page_enter_new_password": "Введите новый пароль:",
+    "password_reset_page_enter_new_password_again": "Введите новый пароль ещё раз:",
+    "password_reset_page_confirm": "Подтвердить",
+    "password_reset_page_success": "Пароль успешно изменён!",
+    "password_reset_page_passwords_not_filled": "Пожалуйста, заполните все поля",
+    "password_reset_page_passwords_dont_match": "Пароли не совпадают",
+    "password_reset_page_password_too_short": "Пароль слишком короткий",
+    "password_reset_page_password_too_long": "Пароль слишком длинный",
+    "password_reset_page_password_no_numbers": "Пароль должен содержать цифры",
+    "password_reset_page_password_no_letters": "Пароль должен содержать буквы латинского алфавита",
+    "password_reset_page_unknown_error": "Произошла неизвестная ошибка на сервере. Попробуйте ещё раз",
+    "password_reset_page_connection_error": "Ошибка при подключении к серверу. Попробуйте ещё раз"
 }
