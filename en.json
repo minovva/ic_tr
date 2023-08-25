@@ -127,5 +127,6 @@
     "password_reset_page_password_no_numbers": "Password must contain numbers",
     "password_reset_page_password_no_letters": "Password must contain letters",
     "password_reset_page_unknown_error": "Unexpected error. Try again later",
-    "password_reset_page_connection_error": "Error while trying to connect to the server. Try again later"
+    "password_reset_page_connection_error": "Error while trying to connect to the server. Try again later",
+    "email_confirmed": "e-mail confirmed!"
 }
