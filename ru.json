@@ -127,5 +127,6 @@
     "password_reset_page_password_no_numbers": "Пароль должен содержать цифры",
     "password_reset_page_password_no_letters": "Пароль должен содержать буквы латинского алфавита",
     "password_reset_page_unknown_error": "Произошла неизвестная ошибка на сервере. Попробуйте ещё раз",
-    "password_reset_page_connection_error": "Ошибка при подключении к серверу. Попробуйте ещё раз"
+    "password_reset_page_connection_error": "Ошибка при подключении к серверу. Попробуйте ещё раз",
+    "email_confirmed": "e-mail подтверждён!"
 }
