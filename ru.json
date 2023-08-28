@@ -71,7 +71,7 @@
     "my_cars": "Гараж",
     "records": "Рекорды",
     "level": "Уровень",
-    "communication": "Коммуникации",
+    "communication": "Подписки",
     "targets": "Цели",
     "report_problem": "Сообщите об ошибке",
     "describe_problem": "Пожалуйста, опишите проблему детально",
@@ -131,5 +131,7 @@
     "password_reset_page_connection_error": "Ошибка при подключении к серверу. Попробуйте ещё раз",
     "email_confirmed": "e-mail подтверждён!",
     "quit_race": "Завершить заезд",
-    "share_on_social_media": "Поделиться"
+    "share_on_social_media": "Поделиться",
+    "unsubscribe": "Отписаться",
+    "Show all Routes": "Показать все"
 }
