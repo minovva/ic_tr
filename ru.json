@@ -76,9 +76,9 @@
     "report_problem": "Сообщите об ошибке",
     "describe_problem": "Пожалуйста, опишите проблему детально",
     "send": "Отправить",
-    "add_car": "Добавить тачку",
-    "new_car_for_list": "Новая тачка в список",
-    "are_you_sure_delete_this_car": "Вы уверены что хотите удалить эту тачку?",
+    "add_car": "Добавить авто",
+    "new_car_for_list": "Новое авто в список",
+    "are_you_sure_delete_this_car": "Вы уверены что хотите удалить это овто?",
     "car_year": "Год выпуска",
     "car_mark": "Марка",
     "model": "Модель",
@@ -87,6 +87,7 @@
     "your_place": "Место",
     "succes": "Успех",
     "language": "Русский язык",
+    "select_language": "Выберите язык",
     "tutorial_one_on_start_title": "Двигайтесь по направлению выезда за границы стартового города",
     "tutorial_one_on_start_desc": "При пересечении границы города – отсчёт времени запустится автоматически и начнётся ваш заезд",
     "tutorial_one_not_on_start_title": "Двигайтесь по направлению к стартовому городу",
@@ -129,5 +130,6 @@
     "password_reset_page_unknown_error": "Произошла неизвестная ошибка на сервере. Попробуйте ещё раз",
     "password_reset_page_connection_error": "Ошибка при подключении к серверу. Попробуйте ещё раз",
     "email_confirmed": "e-mail подтверждён!",
-    "quit_race": "Завершить заезд"
+    "quit_race": "Завершить заезд",
+    "share_on_social_media": "Поделиться"
 }
