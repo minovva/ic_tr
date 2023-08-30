@@ -133,5 +133,8 @@
     "quit_race": "Завершить заезд",
     "share_on_social_media": "Поделиться",
     "unsubscribe": "Отписаться",
-    "Show all Routes": "Показать все"
+    "Show all Routes": "Показать все",
+    "main_page_android_download": "скачайте с {0} для Android",
+    "main_page_text": "Скачайте и узнайте, как быстро вы можете проехать между городами",
+    "main_page_privacy_policy": "Политика конфиденциальности"
 }
