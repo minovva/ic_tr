@@ -136,5 +136,18 @@
     "Show all Routes": "Показать все",
     "main_page_android_download": "скачайте с {0} для Android",
     "main_page_text": "Скачайте и узнайте, как быстро вы можете проехать между городами",
-    "main_page_privacy_policy": "Политика конфиденциальности"
+    "main_page_privacy_policy": "Политика конфиденциальности",
+    "goal_subscribe_to_location": "Подписаться на локацию",
+    "goal_subscribe_to_person": "Подписаться на человека",
+    "goal_do_n_races": "Совершить {0}",
+    "goal_do_n_kms": "Проехать {0}",
+    "goal_subscribe_to_us": "Подписаться на наше сообщество",
+    "goal_discover_new_route": "Освоить неизведанную трассу",
+    "goal_beat_record": "Побить чужой рекорд",
+    "for_goal_km_rp": "километра",
+    "for_goal_km_rp_pl": "километров",
+    "for_goal_km_vp": "километр",
+    "for_goal_mile_rp": "мили",
+    "for_goal_mile_rp_pl": "миль",
+    "for_goal_mile_vp": "милю"
 }
