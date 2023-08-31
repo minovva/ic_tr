@@ -131,5 +131,18 @@
     "email_confirmed": "e-mail confirmed!",
     "main_page_android_download": "download from {0} for Android",
     "main_page_text": "Download and find out how long it takes you to drive between cities",
-    "main_page_privacy_policy": "Privacy policy"
+    "main_page_privacy_policy": "Privacy policy",
+    "goal_subscribe_to_location": "Subscribe to lacation",
+    "goal_subscribe_to_person": "Subscribe to person",
+    "goal_do_n_races": "Complete {0}",
+    "goal_do_n_kms": "Drive {0}",
+    "goal_subscribe_to_us": "Subscribe to our community",
+    "goal_discover_new_route": "Discover new route",
+    "goal_beat_record": "Beat someone's record",
+    "for_goal_km": "kilometer",
+    "for_goal_km_pl": "kilometers",
+    "for_goal_mile": "mile",
+    "for_goal_mile_pl": "miles",
+    "for_goal_race": "race",
+    "for_goal_race_pl": "races"
 }
