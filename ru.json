@@ -149,5 +149,8 @@
     "for_goal_km_vp": "километр",
     "for_goal_mile_rp": "мили",
     "for_goal_mile_rp_pl": "миль",
-    "for_goal_mile_vp": "милю"
+    "for_goal_mile_vp": "милю",
+    "for_goal_race_rp": "заезда",
+    "for_goal_race_rp_pl": "заездов",
+    "for_goal_race_vp": "заезд"
 }
