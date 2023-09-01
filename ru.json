@@ -152,5 +152,10 @@
     "for_goal_mile_vp": "милю",
     "for_goal_race_rp": "заезда",
     "for_goal_race_rp_pl": "заездов",
-    "for_goal_race_vp": "заезд"
+    "for_goal_race_vp": "заезд",
+    "img_apple_store_3": "/as-3.png",
+    "img_google_play_3": "/gp-3.png",
+    "img_phone": "/phone.png",
+    "img_apple_store": "/appstore.png",
+    "img_google_play": "/play_market.png"
 }
