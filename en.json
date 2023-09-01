@@ -149,5 +149,6 @@
     "img_google_play_3": "/gp-3.png",
     "img_phone": "/phone.png",
     "img_apple_store": "/appstore.png",
-    "img_google_play": "/play_market.png"
+    "img_google_play": "/play_market.png",
+    "error": "error"
 }
