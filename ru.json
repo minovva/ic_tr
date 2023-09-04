@@ -158,5 +158,13 @@
     "img_phone": "/phone.png",
     "img_apple_store": "/appstore.png",
     "img_google_play": "/play_market.png",
-    "error": "ошибка"
+    "error": "ошибка",
+    "race_page_title": "Результаты гонки",
+    "race_page_time": "Время",
+    "race_page_user": "Пользователь",
+    "race_page_place": "Место",
+    "race_page_avg_speed": "Средняя скорость",
+    "race_page_route": "Маршрут",
+    "race_page_km_h": "км/ч",
+    "race_page_miles_h": "миль/ч"
 }
