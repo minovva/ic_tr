@@ -150,5 +150,13 @@
     "img_phone": "/phone.png",
     "img_apple_store": "/appstore.png",
     "img_google_play": "/play_market.png",
-    "error": "error"
+    "error": "error",
+    "race_page_title": "Race result",
+    "race_page_time": "Time",
+    "race_page_user": "User",
+    "race_page_place": "Place",
+    "race_page_avg_speed": "Average speed",
+    "race_page_route": "Route",
+    "race_page_km_h": "km/h",
+    "race_page_miles_h": "miles/h"
 }
