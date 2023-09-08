@@ -158,5 +158,12 @@
     "race_page_avg_speed": "Average speed",
     "race_page_route": "Route",
     "race_page_km_h": "km/h",
-    "race_page_miles_h": "miles/h"
+    "race_page_miles_h": "miles/h",
+    "finish": "Finish",
+    "canceled": "Canceled",
+    "not_in_start": "Not in start",
+    "in_start": "In Start",
+    "going": "Going",
+    "race_progress": "Progress",
+    "race_time": "Time"
 }
