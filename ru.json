@@ -166,5 +166,12 @@
     "race_page_avg_speed": "Средняя скорость",
     "race_page_route": "Маршрут",
     "race_page_km_h": "км/ч",
-    "race_page_miles_h": "миль/ч"
+    "race_page_miles_h": "миль/ч",
+    "finish": "Финиш",
+    "canceled": "Отменено",
+    "not_in_start": "Не в стартовой локации",
+    "in_start": "Старт",
+    "going": "Продолжается",
+    "race_progress": "Прогресс",
+    "race_time": "Время"
 }
