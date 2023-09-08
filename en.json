@@ -161,8 +161,8 @@
     "race_page_miles_h": "miles/h",
     "finish": "Finish",
     "canceled": "Canceled",
-    "not_in_start": "Not in start",
-    "in_start": "In Start",
+    "not_in_start": "Not in start location",
+    "in_start": "In Start location",
     "going": "Going",
     "race_progress": "Progress",
     "race_time": "Time"
