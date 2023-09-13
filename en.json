@@ -165,5 +165,7 @@
     "in_start": "In Start location",
     "going": "Going",
     "race_progress": "Progress",
-    "race_time": "Time"
+    "race_time": "Time",
+    "yes": "Yes",
+    "no": "No"
 }
