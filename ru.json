@@ -178,5 +178,6 @@
     "no": "Нет",
     "tournament_place": "Место в турнире",
     "average_speed": "Средняя скорость",
-    "success": "Успешно"
+    "success": "Успешно",
+    "show_all_routes": "Показать все маршруты"
 }
