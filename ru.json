@@ -176,5 +176,6 @@
     "race_time": "Время",
     "yes": "Да",
     "no": "Нет",
-    "tournament_place": "Место в турнире"
+    "tournament_place": "Место в турнире",
+    "average_speed": "Средняя скорость"
 }
