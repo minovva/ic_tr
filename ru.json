@@ -177,5 +177,6 @@
     "yes": "Да",
     "no": "Нет",
     "tournament_place": "Место в турнире",
-    "average_speed": "Средняя скорость"
+    "average_speed": "Средняя скорость",
+    "success": "Успешно"
 }
