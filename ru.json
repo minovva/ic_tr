@@ -179,5 +179,6 @@
     "tournament_place": "Место в турнире",
     "average_speed": "Средняя скорость",
     "success": "Успешно",
-    "show_all_routes": "Показать все маршруты"
+    "show_all_routes": "Показать все маршруты",
+    "date": "Дата"
 }
