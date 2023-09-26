@@ -172,5 +172,7 @@
     "average_speed": "Average speed",
     "success": "Success",
     "show_all_routes": "Show all Routes",
-    "date": "Date"
+    "date": "Date",
+    "location_error": "Location error",
+    "location_error_text": "Access to the location is required for the application to work."
 }
