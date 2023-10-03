@@ -175,5 +175,6 @@
     "date": "Date",
     "location_error": "Location error",
     "location_error_text": "Access to the location is required for the application to work.",
-    "select_language": "Select language"
+    "select_language": "Select language",
+    "finish_with_error": "Race finished with error"'
 }
