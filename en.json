@@ -178,5 +178,6 @@
     "select_language": "Select language",
     "finish_with_error": "Race finished with error",
     "location_when_in_use":"Change location permission to 'Always' ",
-    "location_mock": "Disable apps for fake location"
+    "location_mock": "Disable apps for fake location",
+    "race_page_description": "Race result of user {0} on route {1}"
 }
