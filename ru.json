@@ -186,5 +186,7 @@
     "finish_with_error": "Гонка завершилась с ошибкой",
     "location_when_in_use":"Измените доступ к локции",
     "location_mock": "Отключите прилоежеия для фейковой локации",
-    "race_page_description": "Результаты гонки пользователя {0} на трассе {1}"
+    "race_page_description": "Результаты гонки пользователя {0} на трассе {1}",
+    "city_races_page_title": "Гонки города",
+    "city_races_page_description": "Гонки города {0}"
 }
