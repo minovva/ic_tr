@@ -190,5 +190,7 @@
     "city_races_page_title": "Гонки города",
     "city_races_page_description": "Гонки города {0}",
     "resend_email":"Отправить письмо повторно",
-    "resend_email_already": "Письмо отправлено"
+    "resend_email_already": "Письмо отправлено",
+    "delete_instruction_page_title": "Инструкция по удалению аккаунта",
+    "delete_instruction_text": "Для удаления аккаунта в Intercity, зайдите в настройки и нажмите 'Удалить аккаунт?'. Затем подтвердите удаление аккаунта. Все данные о вашем аккаунте будут удалены"
 }
