@@ -23,6 +23,7 @@
     "sign_up": "Sign up",
     "registration": "Registration",
     "sign_in": "Sign in",
+    "app_start_location": "The InterCity app collects location data to measure your driving speed during an active race, even when the app is not active.",
     "credentials_for_sign_up": "Enter your registration details",
     "credentials_for_sign_in": "Please, enter your login details",
     "time_to_drivex": "Time to cruise through InterCity",
