@@ -243,5 +243,6 @@
     "empty_subs": "You don't have any racer or city subscriptions. You can subscribe in the track or city statistics",
     "open_settings": "Open settings",
     "go_to_border": "Leave the location, check-in time will start automatically",
-    "far_from_start_location": "To start the race you need to be at the departure location"
+    "far_from_start_location": "To start the race you need to be at the departure location",
+    "no_internet_connection": "No internet connection"
 }
