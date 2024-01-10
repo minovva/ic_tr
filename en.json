@@ -245,5 +245,9 @@
     "go_to_border": "Leave the location, check-in time will start automatically",
     "far_from_start_location": "To start the race you need to be at the departure location",
     "no_internet_connection": "No internet connection",
-    "tap_to_continue": "Tap to continue"
+    "tap_to_continue": "Tap to continue",
+    "notifi_go_to_a": "Move to location A",
+    "notifi_go_to_border": "Drive to the exit of location A",
+    "lead": "Lead",
+    "gap": "Gap"
 }
